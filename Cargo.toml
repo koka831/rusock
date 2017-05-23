@@ -1,6 +1,7 @@
 [package]
+authors = ["koka <koka.code@gmail.com>"]
 name = "rusock"
 version = "0.1.0"
-authors = ["koka <koka.code@gmail.com>"]
 
 [dependencies]
+libc = "0.2.23"
